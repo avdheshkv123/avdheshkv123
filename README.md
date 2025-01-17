@@ -1,5 +1,5 @@
 Hi there 👋
 <br>
-🌱 I’m currently learning Java and Git/Github
+🌱 I’m currently learning Java
 <br>
 Author - Avdhesh Kumar Verma 
