@@ -1,5 +1,3 @@
-Hi there 👋
-<br>
-🌱 I’m currently learning webdev
-<br>
-Author - Avdhesh Kumar Verma 
+B.Tech CSE @ IIIT Delhi
+
+Java • C++ • DSA • OOP • DBMS
