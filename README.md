@@ -1,3 +1,3 @@
-B.Tech CSE @ IIIT Delhi
+B.Tech CSAM @ IIIT Delhi
 
 Java • C++ • DSA • OOP • DBMS
