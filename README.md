@@ -106,7 +106,7 @@ A Unix shell built from scratch in C, supporting command execution, process crea
 
 **Computer Vision / AI**
 
-<img src="https://skillicons.dev/icons?i=opencv" />
+![OpenCV](https://img.shields.io/badge/OpenCV-7dd3fc?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0ea5e9)
 
 <br/>
 
