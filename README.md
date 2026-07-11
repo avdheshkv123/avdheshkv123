@@ -45,10 +45,6 @@ const avdhesh = {
 
 Developed an end-to-end computer vision pipeline to analyze finger exploration behavior on tactile graphics for visually impaired users — processing exploration videos from 21 participants across 12 tactile graphics to generate heatmaps, spatial-temporal trajectories, and behavioral analytics.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avdheshkv123&repo=tactile-graphic-interaction-analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Tactile Graphic Interaction Analysis"/>
-</div>
-
 | Layer | Technology |
 |---|---|
 | Core Language | Python |
@@ -65,10 +61,6 @@ Developed an end-to-end computer vision pipeline to analyze finger exploration b
 
 A Java-based food ordering system with both GUI and CLI interfaces, implementing order processing, menu management, and customer interactions — built on solid object-oriented design principles and validated with JUnit-based testing.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avdheshkv123&repo=Byte-Me-Food-ordering-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Byte-Me Food Ordering System"/>
-</div>
-
 | Layer | Technology |
 |---|---|
 | Core Language | Java |
@@ -83,10 +75,6 @@ A Java-based food ordering system with both GUI and CLI interfaces, implementing
 ### 🐚 Simple Shell
 
 A Unix shell built from scratch in C, supporting command execution, process creation, pipes, and history — implemented using core Linux system calls including `fork()`, `exec()`, `wait()`, and `pipe()`.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avdheshkv123&repo=Simple-Shell&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Simple Shell"/>
-</div>
 
 | Layer | Technology |
 |---|---|
