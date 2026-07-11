@@ -45,9 +45,6 @@ const avdhesh = {
 
 Developed an end-to-end computer vision pipeline to analyze finger exploration behavior on tactile graphics for visually impaired users — processing exploration videos from 21 participants across 12 tactile graphics to generate heatmaps, spatial-temporal trajectories, and behavioral analytics.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avdheshkv123&repo=tactile-graphic-interaction-analysis&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Tactile Graphic Interaction Analysis"/>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -65,9 +62,6 @@ Developed an end-to-end computer vision pipeline to analyze finger exploration b
 
 A Java-based food ordering system with both GUI and CLI interfaces, implementing order processing, menu management, and customer interactions — built on solid object-oriented design principles and validated with JUnit-based testing.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avdheshkv123&repo=Byte-Me-Food-ordering-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Byte-Me Food Ordering System"/>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -84,9 +78,6 @@ A Java-based food ordering system with both GUI and CLI interfaces, implementing
 
 A Unix shell built from scratch in C, supporting command execution, process creation, pipes, and history — implemented using core Linux system calls including `fork()`, `exec()`, `wait()`, and `pipe()`.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avdheshkv123&repo=Simple-Shell&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" alt="Simple Shell"/>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -114,17 +105,8 @@ A Unix shell built from scratch in C, supporting command execution, process crea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avdheshkv123&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Avdhesh's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdheshkv123&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=avdheshkv123&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak Stats"/>
 
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avdheshkv123&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Activity
