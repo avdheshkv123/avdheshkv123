@@ -100,20 +100,7 @@ A Unix shell built from scratch in C, supporting command execution, process crea
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=avdheshkv123&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Avdhesh's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdheshkv123&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=avdheshkv123&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak Stats"/>
-
-</div>
-
 ## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=avdheshkv123&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
 
 ## 📈 Contribution Activity
 
